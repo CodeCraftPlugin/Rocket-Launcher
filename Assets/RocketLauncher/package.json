@@ -1,0 +1,10 @@
+﻿{
+  "name": "rocketlauncher",
+  "displayName": "RocketLauncher",
+  "version": "1.0.0",
+  "unity": "2021",
+  "description": "Just a Rocket Game I Made",
+  "license": "MIT",
+  "keywords": ["RocketLauncher"],
+  "dependencies": {}
+}
