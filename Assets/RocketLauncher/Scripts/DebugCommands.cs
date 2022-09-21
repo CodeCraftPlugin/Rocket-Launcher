@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace roecketlauncher.RocketLauncher.Scripts
+namespace RocketLauncher.Scripts
 {
     public class DebugCommands : MonoBehaviour
     {
